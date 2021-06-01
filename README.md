@@ -5,6 +5,7 @@
 - 🔢 Skills:  
     - Java core, OOP
     - Spring framework (Spring boot, Spring MVC), Lombok 
+    - C++ core 
     - MySQL, JDBC
     - Math, algorithms and data sturctures
     - HTML/CSS
