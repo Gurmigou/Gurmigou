@@ -4,9 +4,10 @@
 - 👨‍💻 I’m in computer science and programming.
 - 🔢 Skills:  
     - Java core, OOP
-    - Spring framework (Spring boot, Spring MVC), Lombok 
+    - Spring framework (Spring boot, Spring MVC, basics Spring data), Lombok
+    - intermediate JavaScript, basics of React.js framework
     - C++ core 
-    - MySQL, JDBC
-    - Math, algorithms and data sturctures
+    - MySQL, JDBC, basics of JPA, 
+    - Algorithms and data sturctures, math, 
     - HTML/CSS
     - Git   
